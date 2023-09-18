@@ -1,22 +1,25 @@
 {
-	"movies": [
+	"tournaments": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Tournament": "WNF",
+			"Location": "Belmont",
+			"Placement": "R",
+			"Wins": ["test", "test"],
+			"Loses": ["test", "test"]
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Tournament": "Lost In Translation",
+			"Location": "Sofia Coppola",
+			"Placement": "R",
+			"Wins": ["test", "test"],
+			"Loses": ["test", "test"]
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Tournament": "Lost In Translation",
+			"Location": "Sofia Coppola",
+			"Placement": "R",
+			"Wins": ["test", "test"],
+			"Loses": ["test", "test"]
 		}
 	]
 }
