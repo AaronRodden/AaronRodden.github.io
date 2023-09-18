@@ -1,25 +1,39 @@
 {
 	"tournaments": [
 		{
-			"Tournament": "WNF",
-			"Location": "Belmont",
-			"Placement": "R",
-			"Wins": ["test", "test"],
-			"Loses": ["test", "test"]
+			"Tournament": "WNF Online: Episode 181",
+			"Location": "Online",
+			"Placement": "19th/59",
+			"Wins": ["Javastrophe", "ZEDDCHAMA", "Sweet#hart", "Nutbread", "lydz"],
+			"Loses": ["pzooo", "souzure", "Dave O", "guppy"]
 		},
 		{
-			"Tournament": "Lost In Translation",
-			"Location": "Sofia Coppola",
-			"Placement": "R",
-			"Wins": ["test", "test"],
-			"Loses": ["test", "test"]
+			"Tournament": "WNF Online: Episode 180",
+			"Location": "Online",
+			"Placement": "15th/52",
+			"Wins": ["Zwei Not", "Javastrophe", "Nutbread", "chastetiddy", "ThreeFold", "Twonny"],
+			"Loses": ["pzooo", "Wonsubon", "Zwei Not", "Adapt"]
 		},
 		{
-			"Tournament": "Lost In Translation",
-			"Location": "Sofia Coppola",
-			"Placement": "R",
-			"Wins": ["test", "test"],
-			"Loses": ["test", "test"]
-		}
+			"Tournament": "Sept 2023 Caliburst",
+			"Location": "Belmont, CA",
+			"Placement": "9th/34",
+			"Wins": ["thumbtack", "Pop Magoot"],
+			"Loses": ["starsky", "Jigz510", "Espada"]
+		},
+		{
+			"Tournament": "Evo 2023",
+			"Location": "Las Vegas, NV",
+			"Placement": "25th/128",
+			"Wins": ["Munsu", "Jemo", "MaggotSai", "ChaChaman"],
+			"Loses": ["WhyHaveIDoneThis"]
+		},
+		{
+			"Tournament": "Harmonic Combo #5",
+			"Location": "Berkeley, CA",
+			"Placement": "7th/17",
+			"Wins": ["elgrandepedro", "Joy"],
+			"Loses": ["pattheflip", "Aetherbeat"]
+		},
 	]
 }
